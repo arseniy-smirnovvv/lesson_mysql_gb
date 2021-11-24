@@ -1,0 +1,2 @@
+-- mysqldump -u root -p --where="1 limit 100" 'mysql' 'help_keyword' > keyword_dump.sql
+-- содержимое в keyword_dump.sql

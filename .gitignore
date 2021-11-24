@@ -1,2 +1,5 @@
 *.cnf
 *.project
+Scripts/
+Script/
+*.gitignore
